@@ -1,0 +1,21 @@
+{
+    "name": "csnntrt/icq-bot",
+    "description": "A Composer for ICQ BOT | Message Sender",
+    "type": "library",
+    "require": {
+        "php": "^8.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Csnntrt\\IcqBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "csnntrt",
+            "email": "aracostajm0946@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
