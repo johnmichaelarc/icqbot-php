@@ -1,6 +1,6 @@
 # ICQ Bot Message Sender
 Author : John Michael Aracosts
-<img src="https://icq.com/botapi/res/logo_icq_new.png" width="40%"><img src="https://myteam.mail.ru/botapi/res/logo_myteam.png" width="40%">\
+<img src="https://icq.com/botapi/res/logo_icq_new.png" width="40%">
 
 ## Install (Composer)
 ```
