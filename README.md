@@ -4,7 +4,7 @@ Author : John Michael Aracosts
 
 ## Install (Composer)
 ```
-composer require 
+composer require csnntrt/icq-bot
 ```
 ## Usage
 ```php
